@@ -33,7 +33,8 @@
      - Navigate into the `frontend` directory:
 
        ```bash
-       cd frontend
+       cd Software-Delivery-Pipeline---Assignment/frontend
+
        ```
 
    - Install the required dependencies for the React frontend:
@@ -52,10 +53,11 @@
 
 4. **Set up Backend (Express):**
   \
-     - Navigate into the backend directory :
+     - In a new terminal, Navigate into the backend directory :
 
        ```bash
-       cd ../backend
+       cd Software-Delivery-Pipeline---Assignment/backend
+
        ```
 
   
